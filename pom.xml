@@ -20,7 +20,7 @@
 	    <springfox-swagger.version>2.9.2</springfox-swagger.version>
 		<springfox-swagger.version>2.9.2</springfox-swagger.version>
 		<flyway.version>6.4.3</flyway.version>
-		<json.version>20190722</json.version>
+		<json.version>20230227</json.version>
 	</properties>
 
 	<dependencies>
